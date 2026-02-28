@@ -330,11 +330,6 @@ body {
   font-size: 24px;
 }
 
-.inactive:hover {
-  background-color: #af03f398;
-  cursor: pointer;
-  color: white;
-}
 .content-main {
   max-width: 1000px;
   box-sizing: border-box;
